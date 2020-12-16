@@ -1,0 +1,6 @@
+<!--pages/check/check.wxml-->
+<canvas class = "canvas" id="chart1"
+canvas-id="HeartBeat"></canvas>
+<view class="imagesize">
+  <image src="/image/image2.jpg" mode="widthFix"></image>
+</view>

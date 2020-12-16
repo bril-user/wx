@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="imagesize">
+  <image src="/image/image1.jpg" mode="widthFix"></image>
+</view>
+
+
+<button class="btn1" bindtap="navigate">查看您的心率数据</button>

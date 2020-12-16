@@ -1,0 +1,19 @@
+/* pages/check/check.wxss */
+.canvas{
+
+  width: 100%;
+  height: 600rpx
+   
+}
+
+#chart1{
+  top:0px
+}
+.imagesize{
+  display:flex;                   
+  justify-content: center;        
+ }
+ .imagesize image { 
+   width:100%;
+   height:20px;
+  }

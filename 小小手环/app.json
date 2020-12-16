@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/start/start",
+   
+    "pages/check/check"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#AFEEEE",
+    "navigationBarTitleText": "心率监测",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
